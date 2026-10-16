@@ -1,0 +1,9 @@
+# PyCharm settings
+.idea/
+
+# Generated output folders
+/testing_outputs/
+/txt_exports/
+
+# Backup files
+*.bak
