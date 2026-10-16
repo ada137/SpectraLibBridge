@@ -4,6 +4,7 @@
 # Generated output folders
 /testing_outputs/
 /txt_exports/
+/sdf_exports/
 
 # Backup files
 *.bak
